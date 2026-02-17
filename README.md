@@ -1,3 +1,3 @@
 # shrinidhi-joshi
 projects
-Authoe shrinidhi joshi
+Author shrinidhi joshi
